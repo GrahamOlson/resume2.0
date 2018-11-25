@@ -1,0 +1,28 @@
+.container-fluid {
+  width: 90%;
+  margin-top: 2%;
+  font-family: 'Muli', roboto;
+}
+.mint {
+  color: #98ff98;
+}
+.lavender {
+  color: #dcd0ff;
+}
+.bg-blue {
+  background-color: #AEE1F9;
+}
+.title {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+.vl {
+  border-right: 1px solid black;
+  height: 100%;
+}
+.left {
+  margin-top: 10px;
+}
+.right {
+  margin-top: 10px;
+}
